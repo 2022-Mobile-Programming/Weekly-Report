@@ -9,6 +9,7 @@
 - [x] HomeFragment.kt
 - [x] RegisterActivity.kt
 - [x] MapActivity.kt
+- [ ] DetailActivity.kt
 - [ ] ChatFragment.kt
 - [ ] SettingFragment.kt
 
