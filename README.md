@@ -5,8 +5,10 @@
 
 ### Activity & Fragment
 - [x] LoginActivity & SignUpActivity
-- [ ] MainActivity
-- [ ] HomeFragment.kt
+- [x] MainActivity
+- [x] HomeFragment.kt
+- [x] RegisterActivity.kt
+- [x] MapActivity.kt
 - [ ] ChatFragment.kt
 - [ ] SettingFragment.kt
 
@@ -14,5 +16,5 @@
 ### Library
 - [x] Firebase Authentication
 - [ ] Firebase Realtime Database
-- [ ] Kakao Map API
+- [x] Kakao Map API
 
